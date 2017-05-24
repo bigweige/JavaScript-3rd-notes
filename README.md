@@ -1,3 +1,4 @@
-# My Awesome Book
+# JavaScript高级程序设计（第3版）学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+主要是记录（摘录）书中的重要知识点和自己的一些理解.
+
